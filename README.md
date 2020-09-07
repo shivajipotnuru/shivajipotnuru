@@ -1,5 +1,16 @@
 ### Hi I am Shivaji Potnuru
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
 
+
+### Connect with me:
+
+[<img align="left" alt="shivaji" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="shivaji | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="shivaji | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 ### Languages and Tools:
 
@@ -27,3 +38,13 @@
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+
+
+
+
+
+[website]: https://shivajipotnuru.github.io/
+[instagram]: https://instagram.com/Shivajipotnuru
+[linkedin]: https://www.linkedin.com/in/Shivajipotnuru/
