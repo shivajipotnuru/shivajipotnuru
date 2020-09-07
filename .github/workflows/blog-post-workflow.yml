@@ -2,7 +2,7 @@ name: Latest Blog Posts
 on:
   schedule:
     # Runs every 5 minutes
-    - cron: '*/5 * * * *'
+    - cron: '0 * * * *'
 
 jobs:
   update-readme-with-stack-overflow:
@@ -12,4 +12,10 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+<<<<<<< HEAD
           feed_list: "https://dev.to/shivajipotnuru"
+=======
+          # comment_tag_name: "STACKOVERFLOW"
+          # commit_message: "Updated readme with the latest stackOverflow data"
+          feed_list: "https://dev.to/shivajipotnuru"
+>>>>>>> 65ee9f2b82610bb85301dfe5196659548ae180e3
