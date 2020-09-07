@@ -1,5 +1,5 @@
 ### Hi I am Shivaji Potnuru
 
 ### 📕 Latest Blog posts
-<!-- Blog-Post-List:START -->
-<!-- Blog-Post-List:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
