@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-
+---
 ### Connect with me:
 
 [<img align="left" alt="shivaji" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -36,6 +36,7 @@
 ---
 ![SHIVAJI POTNURU github stats](https://github-readme-stats.vercel.app/api?username=shivajipotnuru&show_icons=true&theme=dark&hide=contribs)
 
+---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
