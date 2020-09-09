@@ -37,7 +37,7 @@
 ![SHIVAJI POTNURU github stats](https://github-readme-stats.vercel.app/api?username=shivajipotnuru&show_icons=true&theme=dark&hide=contribs)
 
 ---
-### Blog posts
+### My Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Difference between Gb and Gib ?](https://dev.to/shivajipotnuru/difference-between-gb-and-gib-28mm)
 - [File Explorer Hack wish we know it Earlier ~_^](https://dev.to/shivajipotnuru/file-explorer-hack-wish-we-know-it-earlier--nlp)
