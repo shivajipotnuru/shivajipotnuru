@@ -47,7 +47,10 @@
 ### WorkFLOW
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         1 hr 18 mins    ██████████████▓░░░░░░░░░░   58.43 % 
+JavaScript   26 mins         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+SCSS         23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Other        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 ```
 <!--END_SECTION:waka-->
 
