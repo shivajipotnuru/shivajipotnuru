@@ -47,9 +47,7 @@
 ### WorkFLOW
 <!--START_SECTION:waka-->
 ```text
-Java         38 mins         ████████████████░░░░░░░░░   63.96 % 
-HTML         15 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.09 % 
-JavaScript   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Java   30 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
