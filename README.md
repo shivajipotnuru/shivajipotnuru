@@ -48,7 +48,9 @@
 ### WorkFLOW
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   10 mins         ██████████▒░░░░░░░░░░░░░░   41.69 % 
+JSON         7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.57 % 
+HTML         6 mins          ███████░░░░░░░░░░░░░░░░░░   27.39 % 
 ```
 <!--END_SECTION:waka-->
 
