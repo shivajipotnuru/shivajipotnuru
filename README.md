@@ -59,3 +59,5 @@ EJS          2 mins          ██▒░░░░░░░░░░░░░░
 [website]: https://shivajipotnuru.github.io/
 [instagram]: https://instagram.com/Shivajipotnuru
 [linkedin]: https://www.linkedin.com/in/Shivajipotnuru/
+[![HitCount](http://hits.dwyl.com/shivajipotnuru/shivajipotnuru.svg)](http://hits.dwyl.com/shivajipotnuru/shivajipotnuru)
+
