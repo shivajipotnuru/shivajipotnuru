@@ -48,8 +48,8 @@
 ### WorkFLOW
 <!--START_SECTION:waka-->
 ```text
-Java       16 mins         ██████████████████████░░░   87.62 % 
-Markdown   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Java       32 mins         ███████████████████████▒░   93.53 % 
+Markdown   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 ```
 <!--END_SECTION:waka-->
 
