@@ -46,7 +46,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-### WorkFLOW
+### WorkFLOW 👨‍💻
 <!--START_SECTION:waka-->
 ```text
 JavaScript   6 hrs 23 mins   ███████████████▓░░░░░░░░░   62.21 % 
@@ -62,5 +62,4 @@ JSON         27 mins         █░░░░░░░░░░░░░░░░
 [website]: https://shivajipotnuru.github.io/
 [instagram]: https://instagram.com/Shivajipotnuru
 [linkedin]: https://www.linkedin.com/in/Shivajipotnuru/
-[![HitCount](http://hits.dwyl.com/shivajipotnuru/shivajipotnuru.svg)](http://hits.dwyl.com/shivajipotnuru/shivajipotnuru)
 
