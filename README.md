@@ -39,6 +39,7 @@
 ---
 ### My Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Capstone Ideas?](https://dev.to/shivajipotnuru/capstone-ideas-59a0)
 - [HacktoberFest Story](https://dev.to/shivajipotnuru/hacktoberfest-story-o80)
 - [Crack the Software Interview and the perfect Resources](https://dev.to/shivajipotnuru/crack-the-software-interview-and-the-perfect-resources-8a)
 - [Difference between Gb and Gib ?](https://dev.to/shivajipotnuru/difference-between-gb-and-gib-28mm)
