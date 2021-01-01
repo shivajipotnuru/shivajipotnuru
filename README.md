@@ -9,6 +9,9 @@
 [<img align="left" alt="shivaji" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="shivaji | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shivaji | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="shivaji | Instagram" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][Dev]
+
+
 
 <br />
 
@@ -59,4 +62,4 @@ No Activity tracked this Week
 [website]: https://shivajipotnuru.github.io/
 [instagram]: https://instagram.com/Shivajipotnuru
 [linkedin]: https://www.linkedin.com/in/Shivajipotnuru/
-
+[Dev]:https://dev.to/shivajipotnuru
