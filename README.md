@@ -1,7 +1,7 @@
 ### Hi I am Shivaji Potnuru
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning C# & .NET 
+- 👯 I’m looking to collaborate with other content new Developers for intresting projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ---
 ### Connect with me:
