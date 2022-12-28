@@ -1,7 +1,6 @@
 ### Hi I am Shivaji Potnuru
 - 🌱 I’m currently learning C# & .NET 
 - 👯 I’m looking to collaborate with other content new Developers for intresting projects.
-- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ---
 ### Connect with me:
@@ -51,7 +50,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-
+<a href="https://www.teacheron.com/tutor-profile/4O1Y?r=4O1Y" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
 
 [website]: https://shivajipotnuru.github.io/
 [instagram]: https://instagram.com/Shivajipotnuru
